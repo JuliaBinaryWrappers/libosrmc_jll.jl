@@ -1,150 +1,150 @@
 [[libosrmc]]
 arch = "aarch64"
-git-tree-sha1 = "68d4ba79a516b592225f13636b6dbbf715121380"
+git-tree-sha1 = "cc9ed6f6c5321db0c815348ce78e3abe83df5596"
 os = "macos"
 
     [[libosrmc.download]]
-    sha256 = "6c9db1629e78b5786ae2c8afae68de96cf83e3ee4ca7d6df5eeda0ac4ee70175"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "a75357a47cac4756c5d1595239ac22d0f1e7552a4bafdbffefdb767e1ac35247"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.aarch64-apple-darwin.tar.gz"
 [[libosrmc]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8c170391bad9ddbf2db9cc604ae750c8809d0fca"
+git-tree-sha1 = "3e05f3d767be369f2b29269482ff32ef39016385"
 libc = "glibc"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "30f9291fee8ea3c09848fdf053e5725138e1b90ff289f9da1dfb7292a79a778d"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "169dfb54b7798bdf0e2ef5bef8cf4222ad6afca6ae74e1681bf8e33b1a434f1a"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[libosrmc]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3b7ecb41cdb17b2bb50b3f69378b1176e5aa6318"
+git-tree-sha1 = "252a43c67c6dcac678732b8394966aa689557575"
 libc = "musl"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "027e24a124f2c851354bef11cc9059d74b3d2ba2dec57f904c40efccc9c952d9"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "a1a5c84c214338c286feb5ace16320396732a19cb11a4296829135210070cb07"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.aarch64-linux-musl-cxx11.tar.gz"
 [[libosrmc]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "82d1276d00ce097d1c042f69a997935dfe138a56"
+git-tree-sha1 = "bb68e6fdb234d8814733932659be2d7a04ab3e45"
 libc = "glibc"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "93bba10fdf0fc6bace3982d7cda4462992753788dd0f50cdcd8f8b17c7262afe"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "aa27b703219abc6ba47aa5dfcc6aa41f1eed623f10262bbc19dacf9deb83aeba"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[libosrmc]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3ffa71ab7188308aaf410d142623765c5c701197"
+git-tree-sha1 = "3df5f19e6c3d968d28524ac8e056b5a50077719c"
 libc = "musl"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "c418d096536bdac51f316909978f1f8d093c79670407c95b7e6297ec700b5c68"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "e6260efd24756ba004315e8f39f46d49d03c01e4c328a34c9cfad90b5312944a"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[libosrmc]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a2daa522b331cdb883b59336d56346dbc160ef66"
+git-tree-sha1 = "75e8e4bcb45d4595b1c34e1dc29b7a2e2f34e387"
 libc = "glibc"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "8d88aea5873affe52eecf33a3eac4a744dff0507ea5ba53a8ff9254d5616da42"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "1b6fd26291bf7d96b00ab668bf8e93df1fba8ad1208c09bec8cf5dded55eb637"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[libosrmc]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f48c2c65518c7827a06876ec3009399d235e2a4b"
+git-tree-sha1 = "75a11dcdaf10d94d2a656b6f4a0c06c617c007e3"
 libc = "musl"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "bc7a235b9019f402c2d04d80d02a0d23689c207f9eb5a9a4b888a849d9ae8e99"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "776bd896b88dbedf8eb459c49e3b62a53abee6d7fa2a6c693e627879a35d067f"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[libosrmc]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "463d6d272c85fcc8436c5dff3eff811fdc38887b"
+git-tree-sha1 = "07f11c840a9b78c00515d719af6ff59f8b6b7a81"
 libc = "glibc"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "f270247779b0d362d0a2201309c23a9b77d9c74c5c1c5265b464676af3169c3d"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "bd778d988488edcc4d551639d6179b24496ba97bc59b76087f555b7203dd3c3e"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.i686-linux-gnu-cxx11.tar.gz"
 [[libosrmc]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a9c30330ea80db2fc5888d0f85c54c3ccb73f672"
+git-tree-sha1 = "c70c7a52f1d510169b6b015cc2c1600976334337"
 libc = "musl"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "4202d4be6074886d45114bdb76bb5e6a26889fca9646adc9848d0756627e8652"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "919eb9b8050f45930497c0aba3abddab3e45df9e22848d7f4db300f2f89cbc67"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.i686-linux-musl-cxx11.tar.gz"
 [[libosrmc]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eac38fc1570ed0ba45d72103df17994da94509ad"
+git-tree-sha1 = "c3544f83f2c99a691030ffd7ad784a500205630e"
 os = "windows"
 
     [[libosrmc.download]]
-    sha256 = "beed8bafdc64943ed874d3bee3053bfe87f6addcb6447a86956e57f6f72086ad"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "43508bc73578e7e83ae743437c420041c5cceb8a450054b55bdf05b4b9b6effe"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.i686-w64-mingw32-cxx11.tar.gz"
 [[libosrmc]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4e9b9363b91e766ee985ec70f590b4ed82f7970b"
+git-tree-sha1 = "100769855b26de69744798fcdc4275f2060fa3ab"
 libc = "glibc"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "93bf2823a03035febb98a507ae8a6bf721f9aa50b758c9c5847c357aa86544a2"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "67f136248b1b35d23156a12e627041649a6846b06e0bfbad21c6c94ac5f1c00b"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[libosrmc]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f7ed87659e3c643843fc190d41cb2ab3aa2cd7af"
+git-tree-sha1 = "9e379ddc0a9b51be24d266f84d8e90021a8e3d81"
 libc = "glibc"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "2b6b7a0b3a84db3b1c115ee32f0b131617a77cfc5c39ad5451a7863b514e02d2"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "8c489c877636cbca9ca8cd7bf7bc87040ca4d5a82cc034932db7b18a3b13e5bc"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.riscv64-linux-gnu-cxx11.tar.gz"
 [[libosrmc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c165438b2583e13ec25d16d6d7a9edd987f8b6c6"
+git-tree-sha1 = "c3c7b261cb82bd992190d81e278303dfc6e86496"
 libc = "glibc"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "0c14e16476e00902aec0334a04857c34ded27c29096f49d2056a15d9c8b791d4"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "addc944fc0fbded3f0d4fa2d4b7cdec10ea659e1664edaa76f5f89e2806a242c"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[libosrmc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dd7894e6cc3b33267516a600f839ef15de52ff52"
+git-tree-sha1 = "832e19c907422d5cab1d8643eec6359dc4cc10b8"
 libc = "musl"
 os = "linux"
 
     [[libosrmc.download]]
-    sha256 = "4d2eb14cf52e8877f4f25cdf734be9471fe427a693a3751068d89bcca22513f4"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "6ca1457f8211c493c8af4b5066cd0ea85167095342150331b6095ebb4cc16741"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.x86_64-linux-musl-cxx11.tar.gz"
 [[libosrmc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "faace8b767c0f186116b36e69ffb6454cc4d4e60"
+git-tree-sha1 = "e50e718d50c7c2a249bfb42f83e2851c3c514bd6"
 os = "windows"
 
     [[libosrmc.download]]
-    sha256 = "dfc0087727946fa8fbf680c6e33ca4132155d94e6b010830bb59a9e356ca87ad"
-    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.1+0/libosrmc.v6.0.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8a2597d0d98385d2e37c8f334d3621507ad1fd6c93b704d2d47fbb3b1ab3ac54"
+    url = "https://github.com/JuliaBinaryWrappers/libosrmc_jll.jl/releases/download/libosrmc-v6.0.2+0/libosrmc.v6.0.2.x86_64-w64-mingw32-cxx11.tar.gz"
