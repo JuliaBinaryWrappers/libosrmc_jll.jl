@@ -1,6 +1,6 @@
 name = "libosrmc_jll"
 uuid = "b012619c-76c7-5216-bb6b-491eaf671aba"
-version = "6.0.2+0"
+version = "26.4.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -16,7 +16,7 @@ boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 [compat]
 JLLWrappers = "1.7.0"
 julia = "1.10"
-OSRM_jll = "6.0.0"
+OSRM_jll = "~26.4.0"
 Libdl = "< 0.0.1, 1"
 Expat_jll = "2.6.5"
 Artifacts = "< 0.0.1, 1"
